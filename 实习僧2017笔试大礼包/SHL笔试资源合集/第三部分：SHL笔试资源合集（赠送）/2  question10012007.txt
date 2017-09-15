@@ -1,0 +1,891 @@
+ Question 1: 
+If a salesperson at 'Read-Me Ltd' sold one copy of every book, how much commission would result?  
+ 
+ 
+  ¡ê11.38 
+ 
+  ¡ê11.58 
+ 
+  ¡ê11.73 
+ 
+  ¡ê11.94 
+ 
+  ¡ê12.00 
+ 
+ 
+ 
+      
+Question 2: 
+How much commission will be earned by a salesperson at 'Read-Me Ltd' who exactly meets all their targets?  
+ 
+ 
+  ¡ê11,550 
+ 
+  ¡ê12,845 
+ 
+  ¡ê13,750 
+ 
+  ¡ê14,500 
+ 
+  ¡ê14,750 
+ 
+ 
+ 
+      
+Question 3: 
+If the price of "Chinese Cuisine" increases by 55%, and the original commission percentage halves, how much commission will a salesperson get from selling one copy of this book?  
+ 
+ 
+  ¡ê1.27 
+ 
+  ¡ê1.79 
+ 
+  ¡ê2.31 
+ 
+  ¡ê2.54 
+ 
+  ¡ê3.58 
+ 
+ 
+ 
+      
+Question 4: 
+If the prices of copies of "Pacific Sailing", "Chinese Cuisine" and "Comic Verse" all increase by ¡ê2.00, which of the five book titles will give the highest commission per copy sold?  
+ 
+ 
+  Pacific Sailing 
+ 
+  Chinese Cuisine 
+ 
+  Comic Verse 
+ 
+  Euro Travel 
+ 
+  Science Today 
+ 
+ 
+ 
+      
+Question 5: 
+How much would it cost to travel 400 miles in a Standard Limousine?  330
+ 
+ 
+  ¡ê200 
+ 
+  ¡ê250 
+ 
+  ¡ê280 
+ 
+  ¡ê310 
+ 
+  ¡ê350 
+ 
+ 
+ 
+      
+Question 6: 
+An organisation wishes to hire two Executive Limousines to drive people on separate journeys of 200 miles. What will be the cost of this?  676
+ 
+ 
+  ¡ê352 
+ 
+  ¡ê382 
+ 
+  ¡ê432 
+ 
+  ¡ê482 
+ 
+  ¡ê592 
+ 
+ 
+ 
+      
+Question 7: 
+How much would a company save if they used an Executive Limousine for one journey of 400 miles, instead of two separate journeys of 200 miles each?  80
+ 
+ 
+  ¡ê130 
+ 
+  ¡ê144 
+ 
+  ¡ê150 
+ 
+  ¡ê165 
+ 
+  ¡ê184 
+ 
+ 
+ 
+      
+Question 8: 
+How much more will it cost to travel 200 miles in an Executive Limousine than the same distance in a Standard Limousine?  
+ 118
+ 
+  ¡ê106 
+ 
+  ¡ê108 
+ 
+  ¡ê110 
+ 
+  ¡ê112 
+ 
+  ¡ê114 
+ 
+ 
+ 
+      
+Question 9: 
+A client was charged ¡ê371.10 for an Executive Limousine. How far did the client travel in the car?  
+ 234.5
+ 
+  290 miles 
+ 
+  325 miles 
+ 
+  355 miles 
+ 
+  375 miles 
+ 
+  400 miles 
+ 
+ 
+ 
+      
+Question 10: 
+How much more would a customer have to pay back for a purchase of ¡ê400 with 12 monthly repayments than 6 monthly repayments?  
+ 
+ 
+  ¡ê30.60 
+ 
+  ¡ê34.85 
+ 
+  ¡ê36.60 
+ 
+  ¡ê40.20 
+ 
+  ¡ê52.90 
+ 
+ 
+ 
+      
+Question 11: 
+For an item with a purchase price of ¡ê600, how much would be charged in addition, if the repayments were made over one year?  
+ 
+ 
+  ¡ê75.00 
+ 
+  ¡ê115.20 
+ 
+  ¡ê244.92 
+ 
+  ¡ê655.60 
+ 
+  ¡ê715.20 
+ 
+ 
+ 
+      
+Question 12: 
+How much more would a customer have to pay back for a purchase of ¡ê1,000 with 12 monthly repayments than 6 monthly repayments?  
+ 
+ 
+  ¡ê63.90 
+ 
+  ¡ê83.90 
+ 
+  ¡ê85.00 
+ 
+  ¡ê94.70 
+ 
+  ¡ê147.80 
+ 
+ 
+ 
+      
+Question 13: 
+If the house sales target for the next six months is set at 516, what will be the percentage increase on the sales for the six months shown?  
+ 
+ 
+  8% 
+ 
+  10% 
+ 
+  12% 
+ 
+  15% 
+ 
+  20% 
+ 
+ 
+ 
+      
+Question 14: 
+Last July, 63 houses were sold. What percentage of the July figure in the graph does this represent?  
+ 
+ 
+  90% 
+ 
+  93% 
+ 
+  103% 
+ 
+  106% 
+ 
+  113% 
+ 
+ 
+ 
+      
+Question 15: 
+What is the total value of sales of Products X and Z in January?  
+  ¡ê2,296 
+ 
+  ¡ê4,255 
+ 
+  ¡ê4,679 
+ 
+  ¡ê5,317 
+ 
+  ¡ê6,551 
+ 
+ 
+ 
+      
+Question 16: 
+How much did Wesley contribute to sales of Product X in January (as an approximate percentage)?  
+ 
+ 
+  15% 
+ 
+  19% 
+ 
+  23% 
+ 
+  26% 
+ 
+  30% 
+ 
+ 
+ 
+      
+Question 17: 
+If the average price of a shirt sold is ¡ê30, how many were sold?  
+ 
+ 
+  500 
+ 
+  1,000 
+ 
+  1,500 
+ 
+  2,000 
+ 
+  2,500 
+ 
+ 
+ 
+      
+Question 18: 
+At an average petrol consumption of 8 miles per litre, how many litres of petrol would be needed to travel between Amberford and Claybrook?  
+ 
+ 
+  17.25 
+ 
+  17.50 
+ 
+  17.75 
+ 
+  18.00 
+ 
+  18.25 
+ 
+ 
+ 
+      
+Question 19: 
+Travelling at an average speed of 84 miles per hour, about how long would it take to travel from Eastham to Claybrook?  
+ 
+ 
+  1 hour 14 minutes 
+ 
+  1 hour 34 minutes 
+ 
+  2 hours 54 minutes 
+ 
+  3 hours 17 minutes 
+ 
+  3 hours 24 minutes 
+ 
+ 
+ 
+      
+Question 20: 
+What is the approximate percentage of total weekly sales under ¡ê100,000?  
+ 
+ 
+  1% 
+ 
+  26% 
+ 
+  27% 
+ 
+  52% 
+ 
+  72% 
+ 
+ 
+ 
+      
+Question 21: 
+What is the approximate ratio of Malls to the total number of Outlets?  
+ 
+ 
+  1:4 
+ 
+  1:2 
+ 
+  2:1 
+ 
+  3:1 
+ 
+  4:1 
+ 
+ 
+ 
+      
+Question 22: 
+Approximately what percentage of graduates and non-graduates are self-employed?  
+ 
+ 
+  10% 
+ 
+  14% 
+ 
+  17% 
+ 
+  22% 
+ 
+  23% 
+ 
+ 
+ 
+      
+Question 23: 
+If the number of graduates employed in Health is forecast to decline by 20% year-on-year while the number of non-graduates is forecast to remain the same, how many years will it take for non-graduate employees to outnumber graduate employees in Health?  
+ 
+ 
+  1 
+ 
+  2 
+ 
+  3 
+ 
+  4 
+ 
+  5 
+
+
+Question 24: 
+If the number of graduates employed in Education remains the same while the number of non-graduates increases by 15% per year, how many years will it take for the number of non-graduates to exceed the number of graduates employed in education?  
+ 
+ 
+  3 
+ 
+  4 
+ 
+  5 
+ 
+  6 
+ 
+  7 
+ 
+ 
+ 
+      
+Question 25: 
+What was the approximate average production cost per machine employed by Line B in October?  
+ 
+ 
+  57 
+ 
+  4,559 
+ 
+  8,443 
+ 
+  483,300 
+ 
+  51,229,800 
+ 
+ 
+ 
+      
+Question 26: 
+What was the difference in average cost per machine employed between Line A and Line C in August?  
+ 
+ 
+  22 
+ 
+  51 
+ 
+  5,912 
+ 
+  430,000 
+ 
+  107,650 
+ 
+ 
+ 
+      
+Question 27: 
+What was the average cost per machine employed across all three lines in June?  3.8876
+ 
+ 
+  875 
+ 
+  3,520 
+ 
+  3,537 
+ 
+  4,752 
+ 
+  4,985 
+ 
+ 
+ 
+      
+Question 28: 
+If the revenue for Car Rental in 2004 was half that for Hotels in 2005 when Holiday Lettings accounted for 5.04m Euros, what was the revenue from Hotels in 2004?  
+ 
+ 
+  0.84m 
+ 
+  1.05m 
+ 
+  1.26m 
+ 
+  2.10m 
+ 
+  2.52m 
+ 
+ 
+ 
+      
+Question 29: 
+If Other Revenue grew by 50% to 1.26m in 2005, approximately how much revenue did Holiday Lettings generate in 2004?  
+ 
+ 
+  1.05m 
+ 
+  1.26m 
+ 
+  2.52m 
+ 
+  2.63m 
+ 
+  3.68m 
+ 
+ 
+      
+Question 30: 
+Of the proposals written in 1996, what proportion were accepted?  
+ 
+ 
+  1/2 
+ 
+  2/3 
+ 
+  4/5 
+ 
+  7/8 
+ 
+  11/12 
+ 
+ 
+ 
+      
+Question 31: 
+If the average value of revenue generated from an accepted proposal amounted to ¡ê2,623, what was the approximate total revenue generated over the years 1996 and 1997?  
+ 
+ 
+  ¡ê21,250 
+ 
+  ¡ê212,500 
+ 
+  ¡ê2.125 million 
+ 
+  ¡ê21.25 million 
+ 
+  Cannot say 
+ 
+ 
+ 
+      
+Question 32: 
+In which of the following categories was there the highest acceptance rate for proposals?  
+ 
+ 
+  North 1996 
+ 
+  North 1997 
+ 
+  South 1996 
+ 
+  South 1997 
+ 
+  Cannot say 
+ 
+ 
+ 
+      
+Question 33: 
+What are the approximate running costs for the Compact Print printer (including maintenance and ink cartridges) if 18,000 pages are printed per year?  
+ 
+ 
+  ¡ê380 
+ 
+  ¡ê475 
+ 
+  ¡ê658 
+ 
+  ¡ê754 
+ 
+  ¡ê842 
+ 
+ 
+ 
+      
+Question 34: 
+Which printer offers the lowest ink cartridge cost per page printed?  
+ 
+ 
+  Quick Print 1 
+ 
+  Quick Print Extra 
+ 
+  Clear Print 
+ 
+  Sprint Print 
+ 
+  Compact Print 
+ 
+ 
+ 
+      
+Question 35: 
+What is the approximate percentage reduction in price when PA 500S microwave ovens are sold at the DRP as opposed to the RRP?  
+ 
+ 
+  15% 
+ 
+  19% 
+ 
+  23% 
+ 
+  81% 
+ 
+  85% 
+ 
+ 
+ 
+      
+Question 36: 
+On which microwave oven is there the greatest percentage mark up on Trade Price for individual microwave ovens which are then sold at the RRP?  
+ 
+ 
+  FM 401 
+ 
+  FM 402 
+ 
+  XA 1010 
+ 
+  PA 500 
+ 
+  PA 500S 
+ 
+ 
+ 
+      
+Question 37: 
+If 50 people chose "Decor" in stores nationwide, how many people took part in the survey?  
+ 
+ 
+  2,000 
+ 
+  2,500 
+ 
+  3,000 
+ 
+  3,500 
+ 
+  Cannot say 
+ 
+ 
+ 
+      
+Question 38: 
+Which one of the following pairs of aspects are chosen as most attractive by a larger proportion of customers in newer than older stores?  
+ 
+ 
+  Product Quality & Decor 
+ 
+  Efficiency of Service and Location 
+ 
+  Location and Friendly Staff 
+ 
+  Efficiency of Service and Prices 
+ 
+  Location and Prices 
+ 
+ 
+ 
+      
+Question 39: 
+What percentage of staff at "Crush Drinks" DID NOT work in either Production or "Other" in 1994?  
+ 
+ 
+  46.5% 
+ 
+  48.5% 
+ 
+  52.5% 
+ 
+  54.5% 
+ 
+  57.5% 
+ 
+ 
+ 
+      
+Question 40: 
+In which year did the PERCENTAGE of staff employed in Customer Service by "Crush Drinks" show the highest percentage increase compared to the level of the previous year?  
+ 
+ 
+  1995 
+ 
+  1996 
+ 
+  1997 
+ 
+  1998 
+ 
+  Cannot say 
+ 
+ 
+ 
+      
+Question 41: 
+In which year did Customer Service in 'Crush Drinks' employ its largest number of people?  
+ 
+ 
+  1995 
+ 
+  1996 
+ 
+  1997 
+ 
+  1998 
+ 
+  Cannot say 
+ 
+ 
+ 
+      
+Question 42: 
+If TV adverts generated 12,000 enquiries this year, how many enquiries did radio adverts produce this year?  
+ 
+ 
+  14,000 
+ 
+  16,000 
+ 
+  18,000 
+ 
+  20,000 
+ 
+  Cannot say 
+ 
+ 
+ 
+      
+Question 43: 
+If newspapers generated 22,500 enquiries last year, how many enquiries did TV adverts produce that year?  
+ 
+ 
+  7,650 
+ 
+  8,437 
+ 
+  11,210 
+ 
+  13,500 
+ 
+  Cannot say 
+ 
+ 
+ 
+      
+Question 44: 
+How many Outlets command daily sales of between ¡ê5,000 and ¡ê19,999?  
+ 
+ 
+  961 
+ 
+  1,296 
+ 
+  2,316 
+ 
+  2,611 
+ 
+  3,338 
+ 
+ 
+ 
+      
+Question 45: 
+What is the approximate ratio of Franchised Outlets to Managed Outlets?  
+ 
+ 
+  5:1 
+ 
+  6:1 
+ 
+  7:1 
+ 
+  1:5 
+ 
+  1:6 
+ 
+ 
+ 
+      
+Question 46: 
+If the number of Franchised Outlets doubles next year but the number of Managed Outlets decreases by 75%, what will be the revised ratio of Managed to Franchised Outlets?  
+ 
+ 
+  1:9 
+ 
+  1:12 
+ 
+  1:16 
+ 
+  1:24 
+ 
+  1:48 
+ 
+ 
+ 
+      
+Question 47: 
+Approximately, what percentage of all 'Poor' performers work in Region 2?  
+ 
+ 
+  26% 
+ 
+  27% 
+ 
+  28% 
+ 
+  29% 
+ 
+  30% 
+ 
+ 
+ 
+      
+Question 48: 
+Which Region's Customer Service staff has the highest percentage of 'Poor' performers?  
+ 
+ 
+  Region 1 
+ 
+  Region 2 
+ 
+  Region 3 
+ 
+  Region 4 
+ 
+  Region 5 
+ 
+ 
+ 
+      
+Question 49: 
+If the number of staff rated 'Good' increases by a quarter in Region 2 but decreases by 20% in Region 5, approximately what percentage of total staff are then rated 'Good'?  
+ 
+ 
+  30% 
+ 
+  45% 
+ 
+  54% 
+ 
+  61% 
+ 
+  67% 
+ 
+ 
+ 
+      
+                                                 
+ 
+ 
+
+Thank you for completing the test.
+
+Please wait while your results are sent to the server.                                         
+ 
+ 
+ 
+ 
+ 
+
+Sorry, your time is over.
+
+Thank you for completing the test.
+
+Please wait while your results are sent to the server.                                         
+ 
+ 
+ 
+ 
+ 
+
+Sorry, your test has been stopped.
+
+The clock on your computer does not appear to be synchronised with the timer for the test.
+
+Please wait while your results are sent to the server.                                         
+ 
+ 
+ 
+ 
+ 
+
+We cannot save your results at the moment because your link to our server seems to have been broken. You may have lost your link to the internet or been cut-off.
+This number contains encrypted information about your responses.
+
+Try to cut and paste it to a file that you can save on your hard disk, a network or a floppy disk. Please make a note of where the file is saved.
+If you cannot save it to a file, use the print command to print off this page.
+
+ 
+If you cannot print this page, then make a note of the number.
+Please reconnect to our site as soon as you can. You will be asked to enter the number so that we can record your results.
+
+Unlike during normal operation, during these trials you will be able to take the test again. 
+ 
+  
+ 
+ 
+There has been a problem processing your request 
+
+--------------------------------------------------------------------------------
+
+To continue click on the "Back" button at the top of your page. You may also need to click on the "Refresh" button at the top of your page. 
+
+If the problem persists you can email SHL by clicking on the link below. 
+
+Email: SHLSolutions.Feedback@shlgroup.com 
+
+We will respond as soon as possible. 
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,137 @@
+SHL TEST 
+VERBAL(10/01/2007)
+
+Select TRUE if the statement must be true based on the information in the passage.
+ 
+Select FALSE if the statement is definitely false given the information in the passage.
+ 
+Select CANNOT SAY if you cannot say whether the statement is true or false without further information.
+ 
+Base your answers only on the information given in the passage.
+ 
+
+The Australian subsidiary of RDB, the international banking organisation, has decided to reward its most successful customer service staff with a three week "fact-finding" trip to America. To be chosen, staff must have consistently good performance reviews and a low level of absence from work. The tour party will stay in various hotels throughout the country and will meet American RDB staff and attend various banking conferences and seminars. However, the bulk of their time will be spent in tourist-related activities such as sightseeing and travelling.
+
+1 Staff with a poor record of work attendance are less likely to be selected. true
+2 Work-related activities will take up most of the tour party's time.false
+
+
+Complaints from customers who feel they have received poor service from any of our telesales staff must be forwarded to the Sales Manager or her assistant. The remaining complaints about incorrect invoices must be sent to the Finance Manager, unless the value of the error is greater than $10,000, in which case the complaint should be redirected to the Finance Director.
+
+These procedures have been implemented to improve the former state of affairs, whereby no-one was directly accountable for handling complaints, and problems often had to be resolved by the Managing Director. 
+
+3 Previously, no-one had official responsibility for dealing with complaints.can't say
+4 Most customer complaints are concerned with the invoicing procedure.can't say
+
+Job-sharing is a system whereby two or more people share one job, each individual working a certain proportion of the overall working week. Job-sharing arrangements are available in about 20% of companies, but mostly on an informal basis. Interestingly, participation is greatest amongst administrative staff and is often associated with either easing child care responsibilities or helping staff to look after elderly relatives. 
+
+5 Job-sharing is becoming more common in companies.can't say
+6 Job-sharing is most prevalent among administrative staff.true
+7 People who have children enjoy job-sharing more than others.true
+
+Internet shoppers are at an increased risk of both fraud and theft due to a number of factors. Amongst them are both a decrease in a means of reliable identification and an increase in the use of websites for monetary transactions whether from online reservations, internet banking, or other types of business. This fraud is increasing in severity and frequency in areas such as false business websites, telesales and online shopping and is now a more serious problem than ever before. One solution to this problem would be to limit internet transactions to websites authorised by the banks
+
+8 By restricting internet transactions to only websites authorised by the banks, a decrease in internet fraud might be seen.can't say
+9 The increased risk of fraud and theft to internet shoppers is wholly due to a decrease in a means of reliable identification and an increase in the use of the internet for online banking.false
+
+
+A recent study investigating the effects of stress at work argues that stress management programs should be included in all organisational development policies as a key step in helping to fight absenteeism from work and work-related stress. The Confederation of Work and Industry states that it is essential to counter work-related stress to beat higher absenteeism from jobs, and that most work stress arises from poor management. Stress management strategies are currently excluded from organisational development policies by many businesses, and smaller companies are unlikely to allow organisational development in the area of stress management
+
+10 Nearly all businesses incorporate stress management strategies in their policy. false
+11 Many smaller businesses will not permit policies for absenteeism from work.can't say
+
+An ever-increasing amount of time is spent each year on staff assessment, and the benefits can be numerous. An appraisal can be informative, shedding light on areas of good performance; it can be constructive in that it can give employees an opportunity to consider areas for development within the job; and it can also be motivating by highlighting those skills, abilities and areas of knowledge that the individual has gained from the job. However, the frequency of appraisals is the focus of criticism by some people, who state that assessments do not take place at appropriate times, i.e. in time for an individual to address performance areas in time for a promotion, and therefore it is likely that half of the time spent on assessment is used ineffectively. 
+
+12 The purpose of staff appraisals is purely to inform.false
+13 Staff assessment is one of the greatest time consuming aspects of a job.can't say
+
+Off-shoring has been adopted by banks and other financial organisations in the West since the 1980¡¯s, but it is only in recent years that it has become popular in other industry sectors as its financial benefits over more local outsourcing have become recognised. Evidence indicates that off-shore workers have a lower incidence of failure and cost less to employ than workers based locally. Off-shore workers need less financial rewards and become more competent than local workers in a shorter space of time. 
+
+14 Off-shoring has only been adopted in recent years.false
+15 In the West, off-shoring was the main method used for banking organisations out-sourcing their work in the 1980¡¯s.can't say
+
+Since the number of societies actively promoting environmental awareness has escalated in recent years, the implementation of campaigns is leading to a corresponding increase in involvement. However, survey data demonstrates that only one in twenty interested supporters bothers to get involved with the society concerned. This inertia typically reflects the belief that their contribution would be inconsequential, and, to a lesser extent, uncertainty about the appropriate channels to use. The data also suggested that interested followers are likely to discuss their views with other individuals. While this is a valuable means of promoting environmental awareness, it would be more beneficial to get involved with the societies themselves. 
+
+16 Uncertainty over the appropriate channels to use is the main reason that supporters do not get involved in the campaigns.false
+17 Nowadays, almost all interested supporters get involved in the campaigns.can't say
+
+Minimum wage policies, first introduced in the service industry and leading to a reduction in employee exploitation, were the result of numerous studies. The studies confirmed that a national minimum wage is an important parameter in employee security, and campaigners were rewarded with key backing from worker¡¯s unions. This provided the support required to drive through Employment Relations programmes in many agricultural and industrial sectors, culminating in the creation of the Low Pay Commission. This has been vital in attracting collaboration from major corporations which have previously resisted the pressure to improve income stability.
+
+18 The Low Pay Commission has played an important part in obtaining support from large companies.true
+19 Employee exploitation is the key concern of most workers¡¯ unions.can't say
+20 The creation of the Low Pay Commission was the first step in the process of agricultural and industrial minimum wage policies.false
+
+Until 1995, the use of bicycles had remained virtually static for many years. However, in recent years the number of people using bicycles has grown with increasing pressure from environmentalists, transport agencies and health officials. The trend has been to produce more fashionable bicycles in a variety of styles, lighter cycles, and more comfortable cycles. The diversity of models has increased enormously, though their general shape has not changed radically.
+
+21 There has been an increasing pressure from transport agencies to use bicycles.true
+22 There is now a greater diversity of bicycles available than before 1995.true
+
+Stevens' Supplies, one of the oldest established home shopping companies, is stepping up the capacity of its telephone order handling system and its customer service levels, having invested in a new telephone system.
+
+The company has reported a dramatic increase in the amount of business done, especially over the telephone, in the last six years. Telephone ordering now accounts for over 60% of all orders, and the company plans to continue investment in telephone technology in the future. Following the successful introduction of the "toll free" telephone service which was designed to encourage even more customers to make telephone orders, customers may soon be able to place orders directly from a personal computer connected to a telephone system. 
+
+23 Telephone ordering at Stevens' Supplies will continue to grow over the next few years.can't say
+24 Most home shopping companies are investing in telephone technology.can't say
+
+Saga Stores enjoys an international reputation for quality and style. Nowhere is this more important than in the dress and appearance of its staff. The company sets minimum standards of appearance which are demanded of all shop floor staff, although some departments have specific additional requirements. Hair must be clean, tidy and well cut at all times. With very few exceptions, such as "Designer Corner", which operates a different staff dress code reflecting their particular style, business dress must be worn. Women should wear tailored suits, with a white or cream blouse. Men should wear smart trousers together with a white shirt and jacket. 
+
+25 Company policy concerning appearance does not cover just clothing.true
+26 Business dress must be worn by staff in all departments.false
+27 Women in "Designer Corner" are allowed to wear jewellery.can't say
+
+In order to qualify for prizes, tickets must be purchased according to certain restrictions. People who think they have won must stake their claim in person and produce not only the winning ticket but a valid piece of identification within two weeks following the draw. Tickets must bear an official retailer's stamp next to the purchaser's name to qualify. Publicity shots of the winner might also be requested. Only in the unlikely event that it is suspected that a ticket could have been stolen would the holder be questioned about the retail outlet where the ticket was purchased. Those refusing to have their photograph taken for the records will automatically forfeit their prize. Criminal proceedings would ensue following any suspicion of foul play. 
+
+28 Claims can be made up to a month after the draw.false
+29 Criminals are likely to work together to steal tickets.can't say
+
+Most employees are attracted by the job-related perks and many employers nowadays provide fringe benefits for their staff. Unfortunately, the majority of these perks are taxable, depending in some cases on an employee's position within an organisation and their level of remuneration. The emphasis in the taxation system means that it is usually to an employee's advantage to be given fringe benefits which would otherwise have to be paid for from taxed net income. The wide variety of fringe benefits includes subsidised meals, staff parties and access to sports facilities. 
+
+30 Senior managers' fringe benefits will be taxed more heavily than those of non-managerial staff.can't say
+31 It is always more cost effective to take fringe benefits than to pay for them out of net income.can't say
+
+Researchers in Pegasus Electronics found that a fifth of all sick leave in the company was stress-related. Very high work demands led to stress, but boring jobs were equally detrimental. The Board of Directors therefore decided to take corrective action by getting supervisors to re-organise the production lines so that all their employees had greater control over the rate of production. In addition, all supervisors are now being trained to recognise the early signs of stress-related problems and there is a possibility that if this training proves successful, remaining staff may follow suit shortly. 
+
+32 At Pegasus, most sick leave is due to stress-related illness.false
+33 The action taken has been shown to reduce stress-related sick leave.can't say
+34 Pegasus Electronics has now decided that all staff must be trained to recognise the signs of stress-related illness.false
+
+Outdoor training programmes are becoming increasingly popular as a form of development activity for sales staff. A key strength of these courses is that they bring together individuals of varying ages, from a wide range of organisations and backgrounds. Participants spend up to two weeks in relatively isolated parts of the country, completing activities such as rock-climbing, sailing and bushwalking. These courses are designed to improve a number of skills, such as communication and team-working, and are also supposed to improve an individual's self-awareness. Opinions vary about the effectiveness of these courses, with some participants giving very positive feedback about their usefulness and others expressing reservations about how transferable the skills learnt are to the workplace.
+
+35 Participants normally find that their communication skills improve can't say
+36 The participants who benefit the most from the courses also enjoy them the most.can't say
+
+A few 'Safe As Houses' alarms have been redesigned in an attempt to reduce the large number of complaints where alarms have sounded by accident. One of the new types of alarm is less sensitive than its predecessors. Studies have shown that these newer alarms are rarely activated for no apparent reason. 'Safe As Houses' still sells a number of the original, sensitive alarm systems, because the increase in threshold for motion detection means that the new style alarms may fail to register a break-in where limited force is being used.
+
+37 All of the company's alarm systems are now less sensitive.false
+38 Sensitive alarms sounding inappropriately have irritated some people in the past.can't say
+39 The new alarm systems should reduce the number of accidental soundings by at least a half.can't say
+
+Despite an auspicious launch, sales of the year-old Lianda model plummeted last month to an all time low. Production levels were sustained in anticipation of the traditional seasonal peak and then slashed radically once this failed to materialise. The collapse is largely blamed upon inept promotion and the car is now solely available through special order from Head Office. The announcement shortly after launch of the six month minimum waiting time, led to an upsurge in complaints from customers and is thought to have dissuaded plenty of potential buyers, some of whom opted for the more expensive Especial from the same stable. Talk of the company's imminent collapse, however, is unfounded and is thought to be propaganda spread by less profitable rivals. 
+
+40 Parts of the plant lay temporarily idle after Lianda production was cut.true
+41 The company will be forced to close very shortly.can't say
+
+Officelink, an office equipment superstore, has grown by leaps and bounds since it opened in 1996. This success has been attributed to a combination of low prices, comprehensive stock and its location in the middle of a large and thriving business park. Until recently, the stock control procedures failed to keep up with the increase in business, and customers frequently complained that staff could not find requested stock items. Management attempted to overcome this problem by authorising the purchase of the latest stock control computer software. This software now keeps track of client credit accounts and logs all purchases according to specific stock codes. It will also automatically re-order stock once supplies fall below the pre-defined levels, which can now afford to be lower than ever. 
+
+42 Officelink will have to increase prices to cover the cost of the new stock control computer system.can't say
+43 In the past, stock control was done manually.can't say
+
+A company's environmental policy typically has a profound impact upon its standing in the community. There are legal regulations, with stiff penalties attached, which compel managers to ensure that any waste products are disposed of without contaminating the air or water supplies. In addition, employees can be educated about the inevitable commercial and social benefits of recycling paper and other substances produced as by-products of the manufacturing process. One popular method for gaining staff co-operation is the internal incentive scheme. These often target teams rather than individuals, since the interdependence of staff organising any reprocessing, masks the importance of a given player's role.
+
+44 The regard held for an organisation may be affected by its commitment to environmental issues.true
+45 Managers breaking environmental regulations receive heavy personal fines.can't say
+46 Certain organisations reduce profits by exceeding statutory environmental requirements.can't say
+
+Staff training can have a number of objectives. It can be educational, aiming to develop the knowledge, skills and abilities of the trainees; it can be a vehicle to promote company policy or values; or, finally, it can raise levels of staff satisfaction by ensuring employees are able to improve their existing skills. Lively debate usually accompanies the allocation of expenditure to the annual training budget. Critics argue that certain costs associated with such programmes could be scaled down, and those courses which are unproductive could be axed. 
+
+47 Training sharpens an organisation's competitive edge.cant'say
+48 Knowledge-based training is the most effective form for staff.can't say
+49 The amount of money spent on training tends to be unpopular with some people.true
+50 Training programmes are usually only axed after modification has proved unsuccessful.false
+
+Merchandising tactics, which address the effective packaging and positioning of goods, have long been deployed within retailing to stimulate customer demand. Unprecedented changes in consumer buying habits and the escalating sophistication of technology have encouraged the beverage retailers to make up lost ground and to adopt the merchandising philosophy wholeheartedly after years of neglect. The principal penalty incurred by past caution is that decision making is now hampered by the scarcity of good quality merchandising research. Nevertheless some retailers have decided to move to glass-fronted chilled cabinets to display their beverages. Alternatively, such products are placed on shelves at eye level or, potentially more tempting still, near checkouts.
+
+51 The application of merchandising principles is a recent innovation within general retailing.false
+52 Beverage retailers have a wealth of merchandising information to guide them.can't say
+53 The shelves near checkouts are often positioned at eye level.false
+54 In supermarkets, goods placed near checkouts sell best.can't say
